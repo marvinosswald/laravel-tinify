@@ -1,0 +1,25 @@
+{
+  "name": "marvinosswald/laravel-tinify",
+  "type": "library",
+  "description": "Laravel Facade for tinify API",
+  "keywords": ["tinify","tinypng"],
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "marvinosswald",
+      "email": "mail@marvinosswald.de"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "illuminate/support": "~5.2",
+    "tinify/tinify":"*"
+  },
+  "autoload": {
+    "psr-4": {
+      "marvinosswald\\LaravelTinify\\": "src"
+    }
+  },
+  "minimum-stability": "stable"
+}
