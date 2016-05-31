@@ -4,7 +4,6 @@
   "description": "Laravel Facade for tinify API",
   "keywords": ["tinify","tinypng"],
   "license": "MIT",
-  "version": "1.0.0",
   "authors": [
     {
       "name": "marvinosswald",
